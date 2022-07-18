@@ -1,0 +1,286 @@
+body {
+  background: black;
+  margin: 0;
+  background-image: url('backgroundimage.png');
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+
+h1 {
+  margin: 0;
+  text-align: center;
+  font-size: 50px;
+  font-style: normal;
+  font-family: monospace;
+  color: #593D96;
+  padding-top: 30px;
+}
+
+h1:hover {
+  margin: 0;
+  text-align: center;
+  font-size: 50px;
+  font-style: normal;
+  font-family: monospace;
+  color: #EC96EC;
+  padding-top: 30px;
+}
+
+.madeby {
+  margin: 0;
+  text-align: center;
+  font-style: italic;
+  font-size: 13px;
+  font-family: monospace;
+  color: #593D96;
+}
+
+.copyright {
+  text-align: center;
+  font-family: monospace;
+  color: #593D96;
+}
+
+.boxsize {
+  height: 100px;
+  width: 100px;
+}
+
+.allflexboxes {
+  border-radius: 2%;
+  margin-top: 40px;
+  border: 10px solid #593D96;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.row1flexbox {
+  display: flex;
+  justify-content: center;
+  margin: 0;
+}
+
+.row2flexbox {
+  display: flex;
+  justify-content: center;
+  margin: 0;
+}
+
+.row3flexbox {
+  display: flex;
+  justify-content: center;
+  margin: 0;
+}
+
+.row4flexbox {
+  display: flex;
+  justify-content: center;
+  margin: 0;
+}
+
+.row5flexbox {
+  display: flex;
+  justify-content: center;
+  margin: 0;
+}
+
+.box1a {
+  background-color: #937DC2;
+}
+
+.box1a:hover {
+  background-color: #F68DB8;
+}
+
+.box2a {
+  background-color: #C689C6;
+}
+
+.box2a:hover {
+  background-color: #FCC5C0;
+}
+
+.box3a {
+  background-color: #E8A0BF;
+}
+
+.box3a:hover {
+  background-color: #FFB382;
+}
+
+.box4a {
+  background-color: #FCC5C0;
+}
+
+.box4a:hover {
+  background-color: #FF9A9F;
+}
+
+.box5a {
+  background-color: #937DC2;
+}
+
+.box5a:hover {
+  background-color: #FFB382;
+}
+
+.box1b {
+  background-color: #FCC5C0;
+}
+
+.box1b:hover {
+  background-color: #C689C6;
+}
+
+.box2b {
+  background-color: #F68DB8;
+}
+
+.box2b:hover {
+  background-color: #937DC2;
+}
+
+.box3b {
+  background-color: #FF9A9F;
+}
+
+.box3b:hover {
+  background-color: #FCC5C0;
+}
+
+.box4b {
+  background-color: #FFB382;
+}
+
+.box4b:hover {
+  background-color: #E8A0BF;
+}
+
+.box5b {
+  background-color: #C689C6;
+}
+
+.box5b:hover {
+  background-color: #FCC5C0;
+}
+
+.box1c {
+  background-color: #E8A0BF;
+}
+
+.box1c:hover {
+  background-color: #FFB382;
+}
+
+.box2c {
+  background-color: #BD94CD;
+}
+
+.box2c:hover {
+  background-color: #C689C6;
+}
+
+.box3c {
+  background-color: #937DC2;
+}
+
+.box3c:hover {
+  background-color: #EC96EC;
+}
+
+.box4c {
+  background-color: #BD94CD;
+}
+
+.box4c:hover {
+  background-color: #FF9A9F;
+}
+
+.box5c {
+  background-color: #E8A0BF;
+}
+
+.box5c:hover {
+  background-color: #F68DB8;
+}
+
+.box1d {
+  background-color: #C689C6;
+}
+
+.box1d:hover {
+  background-color: #BD94CD;
+}
+
+.box2d {
+  background-color: #FFB382;
+}
+
+.box2d:hover {
+  background-color: #E8A0BF;
+}
+
+.box3d {
+  background-color: #FF9A9F;
+}
+
+.box3d:hover {
+  background-color: #BD94CD;
+}
+
+.box4d {
+  background-color: #F68DB8;
+}
+
+.box4d:hover {
+  background-color: #E8A0BF;
+}
+
+.box5d {
+  background-color: #FCC5C0;
+}
+
+.box5d:hover {
+  background-color: #BD94CD;
+}
+
+.box1e {
+  background-color: #937DC2;
+}
+
+.box1e:hover {
+  background-color: #E8A0BF;
+}
+
+.box2e {
+  background-color: #FCC5C0;
+}
+
+.box2e:hover {
+  background-color: #FF9A9F;
+}
+
+.box3e {
+  background-color: #E8A0BF;
+}
+
+.box3e:hover {
+  background-color: #F68DB8;
+}
+
+.box4e {
+  background-color: #C689C6;
+}
+
+.box4e:hover {
+  background-color: #FF9A9F;
+}
+
+.box5e {
+  background-color: #937DC2;
+}
+
+.box5e:hover {
+  background-color: #FFB382;
+}
